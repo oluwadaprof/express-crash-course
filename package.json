@@ -1,0 +1,15 @@
+{
+  "name": "express-crash",
+  "version": "1.0.0",
+  "description": "express-crash-course",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "node --watch --env-file=.env server"
+  },
+  "author": "Israel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
